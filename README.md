@@ -28,7 +28,7 @@ II. deploy frontend (apache server is required)
 
 ***
 
-This repository is contains information related to the tool PAR developed by Dr. Jialiang Xie, Dr. Qimu Zheng, Dr. Minghui Zhou, and Dr. Audris Mockus. 
+This repository contains information related to the tool PAR developed by Dr. Jialiang Xie, Dr. Qimu Zheng, Dr. Minghui Zhou, and Dr. Audris Mockus. 
 The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2591073&CFID=706774826&CFTOKEN=98353804).
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
@@ -41,8 +41,7 @@ In this repository, for PAR you will find:
 
 This repository was constructed by [Yi-Chun Chen(RimiChen)](https://github.com/RimiChen) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
 
-Thank for all assistances from Dr. Minghui Zhou and her colleagues. 
-Though I had not successfully downloaded installation required data and failed to get it work, due to the limited network speed.
+Thanks for all assistance from Dr. Minghui Zhou and her colleagues, though I could not successfully get the tool work due to the limited network speed.
 
 
 -------------------------------
@@ -64,7 +63,6 @@ and by
 * Name: Yi-Chun Chen
 * UnityID: ychen4
 * Team: Onslow
-
 * Studied paper: ICSE- 2014 "Product assignment recommender."
 
 ==================================================================================
